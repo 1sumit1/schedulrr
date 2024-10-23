@@ -1,4 +1,4 @@
-import Testimonials from "@/components/testimonials";
+import Testimonials from "@/components/Testimonials";
 import { Button } from "@/components/ui/button";
 import { CardContent, Card, CardHeader, CardTitle } from "@/components/ui/card";
 import { ArrowRight, Calendar, Clock, LinkIcon, MoveRightIcon } from "lucide-react";
